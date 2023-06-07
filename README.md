@@ -1,4 +1,7 @@
-# MontyHallParadoxSimulation
+![License](https://img.shields.io/badge/License-MIT%20-maroon.svg)
+![Frontend](https://img.shields.io/badge/Framework-Angular%20-red.svg)
+
+# Monty Hall Paradox Simulation
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.3.
 

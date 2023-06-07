@@ -22,5 +22,8 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
+## Demo
+https://github.com/MohamedMetwalli5/MontyHallParadox-Simulation/assets/58489322/9e0e7f54-6180-4e1b-ad32-8e6d1069abef
+
 ## Website Logo
 ![Monty Hall Paradox](https://github.com/MohamedMetwalli5/MontyHallParadox-Simulation/assets/58489322/d06c6b3f-d372-4062-a373-bf007844d5e3)

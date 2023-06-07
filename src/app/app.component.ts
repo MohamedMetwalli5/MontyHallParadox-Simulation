@@ -60,7 +60,7 @@ export class AppComponent {
         }
       }
       this.showGoat(this.revealedGoatDoor)
-      alert("You can keep your choice or change it?")
+      alert("You can keep your choice or change it.")
     }
   }
 

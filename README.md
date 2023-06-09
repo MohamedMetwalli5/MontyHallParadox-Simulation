@@ -22,6 +22,11 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
+## The Monty Hall Paradox
+* It is a famous probability puzzle that is named after the host of the game show "Let's Make a Deal", Monty Hall. The paradox involves three doors, behind one of which is a prize, and behind the other two are goats. The contestant chooses one of the doors, but before the door is opened to reveal what is behind it, Monty (who knows what is behind each door) opens one of the other two doors to reveal a goat. At this point, the contestant is given the option to switch their choice to the other unopened door or stick with their original choice.
+
+* The paradox arises because it seems counterintuitive that switching doors would increase the contestant's chances of winning the prize. In fact, the correct strategy in this scenario is always to switch doors, as it doubles the contestant's chances of winning from 1/3 to 2/3. This result can be proven mathematically, but it often goes against people's intuition.
+
 ## Demo
 https://github.com/MohamedMetwalli5/MontyHallParadox-Simulation/assets/58489322/9e0e7f54-6180-4e1b-ad32-8e6d1069abef
 

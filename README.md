@@ -28,7 +28,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 * The paradox arises because it seems counterintuitive that switching doors would increase the contestant's chances of winning the prize. In fact, the correct strategy in this scenario is always to switch doors, as it doubles the contestant's chances of winning from 1/3 to 2/3. This result can be proven mathematically, but it often goes against people's intuition.
 
 ## Demo
-https://github.com/MohamedMetwalli5/MontyHallParadox-Simulation/assets/58489322/9e0e7f54-6180-4e1b-ad32-8e6d1069abef
 
 ## Website Logo
-![Monty Hall Paradox](https://github.com/MohamedMetwalli5/MontyHallParadox-Simulation/assets/58489322/d06c6b3f-d372-4062-a373-bf007844d5e3)
+![Monty Hall Paradox](https://github.com/MohamedMetwalli5/MontyHallParadox-Simulation/assets/58489322/3d4c1333-22f7-4246-bb66-fef1da739741)

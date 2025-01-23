@@ -2,8 +2,7 @@
 ![Frontend](https://img.shields.io/badge/Framework-Angular%20-red.svg)
 
 # Monty Hall Paradox Simulation
-
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version `14.1.3`. This simulation provides a visualization of the Monty Hall problem, a famous probability puzzle.
+This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version `14.1.3`. This simulation provides a visualization of the Monty Hall problem, a famous probability puzzle. This frontend project is hosted on Netlify. Feel free to explore the website by visiting the website [here](https://montyhallparadox-simulation.netlify.app).
 
 # Setup Instructions
 To replicate the project on your local environment, please follow these steps:
